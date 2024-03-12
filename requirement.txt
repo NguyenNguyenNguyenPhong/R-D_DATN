@@ -1,0 +1,8 @@
+nibabel
+ipywidgets
+IPython
+mayavi
+dicom2nifti
+nilearn
+scipy
+vedo
